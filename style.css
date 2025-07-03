@@ -79,3 +79,14 @@ body {
     display: flex;
     margin: auto;
 }
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.attribution__text {
+    font-size: 10px;
+    color: #ADADAD;
+    margin: 10px;
+}
